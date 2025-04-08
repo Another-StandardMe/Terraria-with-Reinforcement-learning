@@ -1,0 +1,17 @@
+ # dataset path
+train: E:/terraria_project/daytime/images/train
+val: E:/terraria_project/daytime/images/train
+test: E:/terraria_project/daytime/images/train
+
+#E:/terraria_project/daytime/images/train
+# number of classes
+nc: 4
+
+# class names
+names: ['Eye_of_Cthulhu', 'King_Slime', 'player', 'Cursor']
+
+#Eye_of_Cthulhu
+#King_Slime
+#Player
+#Cursor
+
