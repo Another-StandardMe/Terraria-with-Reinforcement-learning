@@ -27,3 +27,6 @@ This repository contains a complete implementation of reinforcement learning tra
 
 - `RL_Terraria/TerrariaTesting.py`  
   Testing script used to evaluate the trained agent's performance in the game environment.
+
+- `environment.yml`
+  All installed packages (including versions) in the current project environment.
